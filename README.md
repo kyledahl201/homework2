@@ -4,7 +4,12 @@ Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
 Process:
 
-Started over on 3/16.  I didn't like my original build.  Going for something better. 
+1.Started over on 3/16.  I didn't like my original build.  Going for something better. 
+
+1.1 Created navbar
+1.2 Styled navbar
+1.3 Styled navbar
+1.4 Added main
 Update Check
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
