@@ -1,6 +1,9 @@
 /* Import Fonts from fonts.css file */
 @import url(./fonts.css);
 
+/* css variables */
+@import url(./partials/_variables.css)
+
 /* start navigation */
 
 .header_area .main-menu .navbar .navbar-brand{
@@ -8,7 +11,7 @@
 }
 
 .header_area .main-menu .navbar{
-    padding: 1rem 20%;
+    padding: 1rem 15%;
 }
 
 .header_area .main-menu .nav-item .nav-link{
@@ -17,6 +20,20 @@
     font-weight: 500;
     padding: 1.7rem;
     color: black;
+}
+
+.header_area .main-menu .navbar-nav .active a{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(184,133,8,1) 35%, rgba(0,212,255,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.header_area .main-menu .navbar-nav a:hover{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(184,133,8,1) 35%, rgba(0,212,255,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
 }
 
 /* end navigation */
