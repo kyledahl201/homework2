@@ -16,10 +16,15 @@ html, body{
     --title-color: #141313;
     --text-color: #777777;
     --border-color: #201f1f17;
-    --gradient-color:linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(184,133,8,1) 35%, rgba(0,212,255,1) 100%);
+    --gradient-color:linear-gradient(90deg, #4458dc 0%, #854fee 100%);
+    --gradient-color2:linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(184,133,8,1) 35%, rgba(0,212,255,1) 100%);
+
     --shadow color: 0px 10px 30px rgba(118,85,225,0.3);
     --box color: 0px 10px 30px rgba(57,56,61,0.205);
-    --roboto: 'Roboto';
+    
+    /* font family */
+    --roboto: 'Roboto', cursive;
+
         
 }
     
