@@ -31,7 +31,7 @@ box-shadow: var(--box-shadow)
     color: black;
 }
 
-.button.primary-button:after{
+.button.primary-button::after, .button.secondary-button::after{ 
     position: absolute;
     top: -2px; left: -2px;
     bottom: -2px; right: -2px;
@@ -45,11 +45,13 @@ box-shadow: var(--box-shadow)
     background: white;
     background-clip: padding-box;
     transition: background .6s ease;
-
+    box-shadow: var(--box-shadow)               
 }
 
 .button.secondary-button:hover{
     background: var(--gradient-color);
     color: whitesmoke;
-    box-shadow: var(--box-shadow);
+    box-shadow: var(--box-shadow)               
+
+    
 }
