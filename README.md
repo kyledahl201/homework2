@@ -2,7 +2,7 @@
 Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
 
-Process:
+# Process:
 
 1.Started over on 3/16.  I didn't like my original build.  Going for something better. 
 
@@ -10,7 +10,9 @@ Process:
 1.2 Styled navbar
 1.3 Styled navbar
 1.4 Added main
-Update Check
+
+Here I began to run into bugs as I checked the hosted page against what was displayed in my browser.  Everyhting would seem to work in my browser, but the hosted gitHub page would not show my cutsom stylesheet.  I spent a lot of time trying to solve it but eventually I had to press on finishing my site.  My goal was too make a responsive single page lay out instead of three seperate htmls.  I planned to include a sticky navbar that would link to sections and change color for the section located as the page is scrolled through.  I ran into too many bugs and time became an issue.  I learned to not take on too extensive of projects when you have a deadline.  By the time I realized my mistake, I was too far in.  My page looks decent and is semi-responsive, but I have yet to solve the gitHub hosted issue and I still haven't fixed my sticky navbar problem, which also leaves the linking of the navbar.  Overall I'm a bit disappointed in my failure to produce the website I wanted.
+
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
